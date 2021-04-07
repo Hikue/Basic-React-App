@@ -4,7 +4,9 @@
   "description": "This is the Package.json for --React Applictions: Build {Using Yarn}",
   "main": "index.js",
   "scripts": {
-    "test": "run"
+    "test": "run",
+    "build": "babel src -d lib"
+
   },
   "repository": {
     "type": "git",
