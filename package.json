@@ -1,0 +1,22 @@
+{
+  "name": "basic-react-app",
+  "version": "1.0.0",
+  "description": "This is the Package.json for --React Applictions: Build {Using Yarn}",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hikue/Basic-React-App.git"
+  },
+  "keywords": [
+    "Hikue"
+  ],
+  "author": "Hikue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hikue/Basic-React-App/issues"
+  },
+  "homepage": "https://github.com/Hikue/Basic-React-App#readme"
+}
